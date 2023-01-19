@@ -1,5 +1,5 @@
 {
-    "name": "laravel/interface-useragent",
+    "name": "oleksandra/laravel-interface-useragent",
     "type": "library",
     "license": "MIT",
     "autoload": {
